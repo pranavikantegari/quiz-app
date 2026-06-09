@@ -1,0 +1,702 @@
+[
+  {
+    "question": "Who developed Java?",
+    "answers": ["Microsoft", "Sun Microsystems", "Google", "IBM"],
+    "correct_answer": "Sun Microsystems"
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "answers": ["implements", "inherits", "extends", "super"],
+    "correct_answer": "extends"
+  },
+  {
+    "question": "Which method is the entry point of a Java program?",
+    "answers": ["start()", "main()", "run()", "execute()"],
+    "correct_answer": "main()"
+  },
+  {
+    "question": "Which package is imported automatically in Java?",
+    "answers": ["java.util", "java.io", "java.lang", "java.net"],
+    "correct_answer": "java.lang"
+  },
+  {
+    "question": "Which of these is not a primitive data type?",
+    "answers": ["int", "float", "String", "char"],
+    "correct_answer": "String"
+  },
+  {
+    "question": "Which operator is used for comparison?",
+    "answers": ["=", "==", ":=", "!="],
+    "correct_answer": "=="
+  },
+  {
+    "question": "What is JVM?",
+    "answers": ["Java Variable Machine", "Java Virtual Machine", "Java Vendor Machine", "Java Visual Machine"],
+    "correct_answer": "Java Virtual Machine"
+  },
+  {
+    "question": "Which keyword is used to create an object?",
+    "answers": ["class", "new", "object", "create"],
+    "correct_answer": "new"
+  },
+  {
+    "question": "Java is a ____ language.",
+    "answers": ["Compiled", "Interpreted", "Both", "None"],
+    "correct_answer": "Both"
+  },
+  {
+    "question": "Which loop executes at least once?",
+    "answers": ["for", "while", "do-while", "foreach"],
+    "correct_answer": "do-while"
+  },
+  {
+    "question": "Which keyword is used to stop a loop?",
+    "answers": ["exit", "stop", "break", "end"],
+    "correct_answer": "break"
+  },
+  {
+    "question": "Which access modifier provides maximum accessibility?",
+    "answers": ["private", "protected", "default", "public"],
+    "correct_answer": "public"
+  },
+  {
+    "question": "What is method overloading?",
+    "answers": ["Same method different parameters", "Same method same parameters", "Different methods same parameters", "None"],
+    "correct_answer": "Same method different parameters"
+  },
+  {
+    "question": "Which keyword refers to current object?",
+    "answers": ["super", "current", "this", "self"],
+    "correct_answer": "this"
+  },
+  {
+    "question": "Which keyword is used to inherit parent properties?",
+    "answers": ["parent", "super", "extends", "inherit"],
+    "correct_answer": "extends"
+  },
+  {
+    "question": "What is encapsulation?",
+    "answers": ["Data hiding", "Inheritance", "Polymorphism", "Abstraction"],
+    "correct_answer": "Data hiding"
+  },
+  {
+    "question": "Which collection stores unique elements?",
+    "answers": ["List", "ArrayList", "Set", "Vector"],
+    "correct_answer": "Set"
+  },
+  {
+    "question": "Which exception occurs when dividing by zero?",
+    "answers": ["NullPointerException", "ArithmeticException", "IOException", "ClassNotFoundException"],
+    "correct_answer": "ArithmeticException"
+  },
+  {
+    "question": "Which keyword is used for exception handling?",
+    "answers": ["catch", "try", "throw", "All of these"],
+    "correct_answer": "All of these"
+  },
+  {
+    "question": "What is polymorphism?",
+    "answers": ["Many forms", "Data hiding", "Inheritance", "Object creation"],
+    "correct_answer": "Many forms"
+  },
+  {
+    "question": "Which keyword is used to define a constant in Java?",
+    "answers": ["const", "constant", "final", "static"],
+    "correct_answer": "final"
+  },
+  {
+    "question": "Which class is the superclass of all classes in Java?",
+    "answers": ["Main", "Object", "Class", "Super"],
+    "correct_answer": "Object"
+  },
+  {
+    "question": "Which collection allows duplicate elements?",
+    "answers": ["Set", "HashSet", "TreeSet", "ArrayList"],
+    "correct_answer": "ArrayList"
+  },
+  {
+    "question": "Which package contains ArrayList?",
+    "answers": ["java.lang", "java.io", "java.util", "java.net"],
+    "correct_answer": "java.util"
+  },
+  {
+    "question": "Which keyword is used to create a subclass?",
+    "answers": ["implements", "extends", "inherits", "instanceof"],
+    "correct_answer": "extends"
+  },
+  {
+    "question": "What is the default value of an int variable?",
+    "answers": ["0", "null", "1", "-1"],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Which interface is implemented by ArrayList?",
+    "answers": ["Set", "Map", "List", "Queue"],
+    "correct_answer": "List"
+  },
+  {
+    "question": "Which keyword prevents method overriding?",
+    "answers": ["final", "static", "private", "protected"],
+    "correct_answer": "final"
+  },
+  {
+    "question": "What does JDK stand for?",
+    "answers": ["Java Deployment Kit", "Java Development Kit", "Java Design Kit", "Java Debug Kit"],
+    "correct_answer": "Java Development Kit"
+  },
+  {
+    "question": "Which exception occurs when accessing an invalid array index?",
+    "answers": ["IOException", "ArithmeticException", "ArrayIndexOutOfBoundsException", "NullPointerException"],
+    "correct_answer": "ArrayIndexOutOfBoundsException"
+  },
+  {
+    "question": "Which keyword is used to throw an exception?",
+    "answers": ["throws", "catch", "throw", "finally"],
+    "correct_answer": "throw"
+  },
+  {
+    "question": "Which block always executes?",
+    "answers": ["try", "catch", "throw", "finally"],
+    "correct_answer": "finally"
+  },
+  {
+    "question": "Which method is used to start a thread?",
+    "answers": ["run()", "execute()", "start()", "begin()"],
+    "correct_answer": "start()"
+  },
+  {
+    "question": "Which class is used to create a thread?",
+    "answers": ["Runnable", "Thread", "Process", "Executor"],
+    "correct_answer": "Thread"
+  },
+  {
+    "question": "Which operator checks object type?",
+    "answers": ["typeof", "instanceof", "is", "type"],
+    "correct_answer": "instanceof"
+  },
+  {
+    "question": "What is the size of int in Java?",
+    "answers": ["8 bits", "16 bits", "32 bits", "64 bits"],
+    "correct_answer": "32 bits"
+  },
+  {
+    "question": "Which method converts String to int?",
+    "answers": ["Integer.parseInt()", "toInt()", "parse()", "convertInt()"],
+    "correct_answer": "Integer.parseInt()"
+  },
+  {
+    "question": "Which keyword is used for inheritance and polymorphism?",
+    "answers": ["extends", "new", "this", "private"],
+    "correct_answer": "extends"
+  },
+  {
+    "question": "Which collection stores key-value pairs?",
+    "answers": ["List", "Set", "Queue", "Map"],
+    "correct_answer": "Map"
+  },
+  {
+    "question": "Which implementation maintains insertion order?",
+    "answers": ["HashMap", "TreeMap", "LinkedHashMap", "Hashtable"],
+    "correct_answer": "LinkedHashMap"
+  },
+  {
+    "question": "Which method returns the length of a String?",
+    "answers": ["size()", "count()", "length()", "getLength()"],
+    "correct_answer": "length()"
+  },
+  {
+    "question": "Which method compares two Strings ignoring case?",
+    "answers": ["compare()", "equals()", "equalsIgnoreCase()", "compareTo()"],
+    "correct_answer": "equalsIgnoreCase()"
+  },
+  {
+    "question": "Which class is immutable in Java?",
+    "answers": ["StringBuilder", "StringBuffer", "String", "ArrayList"],
+    "correct_answer": "String"
+  },
+  {
+    "question": "Which class provides dynamic arrays?",
+    "answers": ["HashSet", "ArrayList", "TreeMap", "Queue"],
+    "correct_answer": "ArrayList"
+  },
+  {
+    "question": "Which interface supports First In First Out operations?",
+    "answers": ["List", "Set", "Queue", "Map"],
+    "correct_answer": "Queue"
+  },
+  {
+    "question": "Which collection automatically sorts elements?",
+    "answers": ["ArrayList", "HashSet", "TreeSet", "LinkedList"],
+    "correct_answer": "TreeSet"
+  },
+  {
+    "question": "What is method overriding?",
+    "answers": ["Same method in same class", "Redefining parent method in child class", "Calling constructor", "Creating multiple methods"],
+    "correct_answer": "Redefining parent method in child class"
+  },
+  {
+    "question": "Which keyword is used to access parent class members?",
+    "answers": ["parent", "base", "super", "this"],
+    "correct_answer": "super"
+  },
+  {
+    "question": "Which feature allows one interface to have multiple implementations?",
+    "answers": ["Inheritance", "Encapsulation", "Polymorphism", "Abstraction"],
+    "correct_answer": "Polymorphism"
+  },
+  {
+    "question": "What is abstraction?",
+    "answers": ["Showing implementation", "Hiding implementation details", "Data duplication", "Creating objects"],
+    "correct_answer": "Hiding implementation details"
+  },
+  {
+    "question": "Which keyword is used to define an abstract class?",
+    "answers": ["virtual", "abstract", "interface", "extends"],
+    "correct_answer": "abstract"
+  },
+  {
+    "question": "Can an abstract class have constructors?",
+    "answers": ["Yes", "No", "Only private", "Only static"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "Which keyword is used to implement an interface?",
+    "answers": ["extends", "implements", "inherits", "interface"],
+    "correct_answer": "implements"
+  },
+  {
+    "question": "How many classes can a Java class extend?",
+    "answers": ["Many", "Two", "Unlimited", "One"],
+    "correct_answer": "One"
+  },
+  {
+    "question": "How many interfaces can a Java class implement?",
+    "answers": ["One", "Two", "Unlimited", "Three"],
+    "correct_answer": "Unlimited"
+  },
+  {
+    "question": "Which keyword is used to define a package?",
+    "answers": ["import", "package", "namespace", "library"],
+    "correct_answer": "package"
+  },
+  {
+    "question": "Which keyword imports another package?",
+    "answers": ["include", "using", "package", "import"],
+    "correct_answer": "import"
+  },
+  {
+    "question": "What is the root package in Java?",
+    "answers": ["java", "javax", "jdk", "lang"],
+    "correct_answer": "java"
+  },
+  {
+    "question": "Which class is used for console input?",
+    "answers": ["Scanner", "ConsoleInput", "Reader", "Input"],
+    "correct_answer": "Scanner"
+  },
+  {
+    "question": "Which package contains Scanner?",
+    "answers": ["java.io", "java.util", "java.lang", "java.net"],
+    "correct_answer": "java.util"
+  },
+  {
+    "question": "Which class is used to create mutable strings?",
+    "answers": ["String", "StringBuilder", "Character", "Text"],
+    "correct_answer": "StringBuilder"
+  },
+  {
+    "question": "Which class is thread-safe among mutable string classes?",
+    "answers": ["String", "StringBuilder", "StringBuffer", "CharBuffer"],
+    "correct_answer": "StringBuffer"
+  },
+  {
+    "question": "Which method appends text in StringBuilder?",
+    "answers": ["add()", "append()", "insert()", "concat()"],
+    "correct_answer": "append()"
+  },
+  {
+    "question": "Which method reverses a StringBuilder object?",
+    "answers": ["reverse()", "flip()", "invert()", "backward()"],
+    "correct_answer": "reverse()"
+  },
+  {
+    "question": "What is autoboxing?",
+    "answers": ["Converting object to primitive", "Converting primitive to wrapper object", "Converting String to int", "Converting int to String"],
+    "correct_answer": "Converting primitive to wrapper object"
+  },
+  {
+    "question": "Which wrapper class corresponds to int?",
+    "answers": ["Number", "Integer", "Int", "Long"],
+    "correct_answer": "Integer"
+  },
+  {
+    "question": "Which wrapper class corresponds to double?",
+    "answers": ["Double", "Decimal", "Float", "Real"],
+    "correct_answer": "Double"
+  },
+  {
+    "question": "Which method converts an Integer object to int?",
+    "answers": ["toInteger()", "intValue()", "parseInt()", "valueOf()"],
+    "correct_answer": "intValue()"
+  },
+  {
+    "question": "What is unboxing?",
+    "answers": ["Wrapper to primitive", "Primitive to wrapper", "Object to String", "String to int"],
+    "correct_answer": "Wrapper to primitive"
+  },
+  {
+    "question": "Which interface allows generic collections?",
+    "answers": ["Iterable", "Generic", "Collection", "List"],
+    "correct_answer": "Collection"
+  },
+  {
+    "question": "What is the main benefit of Generics?",
+    "answers": ["Faster execution", "Compile-time type safety", "Memory optimization", "Automatic sorting"],
+    "correct_answer": "Compile-time type safety"
+  },
+  {
+    "question": "Which symbol is used to declare Generics?",
+    "answers": ["()", "[]", "<>", "{}"],
+    "correct_answer": "<>"
+  },
+  {
+    "question": "What is the default capacity of ArrayList?",
+    "answers": ["5", "8", "10", "16"],
+    "correct_answer": "10"
+  },
+  {
+    "question": "Which collection allows duplicate values and maintains insertion order?",
+    "answers": ["HashSet", "TreeSet", "ArrayList", "Hashtable"],
+    "correct_answer": "ArrayList"
+  },
+  {
+    "question": "Which collection does not allow duplicate values?",
+    "answers": ["List", "ArrayList", "Set", "Vector"],
+    "correct_answer": "Set"
+  },
+  {
+    "question": "Which map implementation sorts keys automatically?",
+    "answers": ["HashMap", "LinkedHashMap", "TreeMap", "Hashtable"],
+    "correct_answer": "TreeMap"
+  },
+  {
+    "question": "Which map implementation is synchronized?",
+    "answers": ["HashMap", "LinkedHashMap", "Hashtable", "TreeMap"],
+    "correct_answer": "Hashtable"
+  },
+  {
+    "question": "Which collection works on LIFO principle?",
+    "answers": ["Queue", "Stack", "ArrayList", "HashSet"],
+    "correct_answer": "Stack"
+  },
+  {
+    "question": "Which method removes an element from Stack?",
+    "answers": ["remove()", "delete()", "pop()", "extract()"],
+    "correct_answer": "pop()"
+  },
+  {
+    "question": "Which method inserts an element into Stack?",
+    "answers": ["add()", "insert()", "push()", "append()"],
+    "correct_answer": "push()"
+  },
+  {
+    "question": "Which interface must be implemented to create a thread without extending Thread?",
+    "answers": ["Runnable", "Threadable", "Executor", "Callable"],
+    "correct_answer": "Runnable"
+  },
+  {
+    "question": "Which method contains the code executed by a thread?",
+    "answers": ["start()", "run()", "execute()", "begin()"],
+    "correct_answer": "run()"
+  },
+  {
+    "question": "Which method pauses a thread for a specified time?",
+    "answers": ["wait()", "pause()", "sleep()", "stop()"],
+    "correct_answer": "sleep()"
+  },
+  {
+    "question": "Which keyword is used for synchronization?",
+    "answers": ["sync", "synchronize", "synchronized", "lock"],
+    "correct_answer": "synchronized"
+  },
+  {
+    "question": "Which method waits for a thread to finish execution?",
+    "answers": ["wait()", "join()", "sleep()", "yield()"],
+    "correct_answer": "join()"
+  },
+  {
+    "question": "Which package contains file handling classes?",
+    "answers": ["java.io", "java.util", "java.net", "java.lang"],
+    "correct_answer": "java.io"
+  },
+  {
+    "question": "Which class is used to read text files?",
+    "answers": ["FileWriter", "BufferedReader", "PrintWriter", "FileOutputStream"],
+    "correct_answer": "BufferedReader"
+  },
+  {
+    "question": "Which class is used to write character data into files?",
+    "answers": ["FileWriter", "FileReader", "Scanner", "InputStream"],
+    "correct_answer": "FileWriter"
+  },
+  {
+    "question": "Which class represents a file or directory path?",
+    "answers": ["Path", "Directory", "File", "Folder"],
+    "correct_answer": "File"
+  },
+  {
+    "question": "Which exception occurs when a file is not found?",
+    "answers": ["IOException", "FileNotFoundException", "NullPointerException", "ArithmeticException"],
+    "correct_answer": "FileNotFoundException"
+  },
+  {
+    "question": "What does JDBC stand for?",
+    "answers": ["Java Database Connectivity", "Java Data Connection", "Java Database Control", "Java Direct Connectivity"],
+    "correct_answer": "Java Database Connectivity"
+  },
+  {
+    "question": "Which package provides JDBC classes?",
+    "answers": ["java.jdbc", "java.sql", "java.db", "java.connect"],
+    "correct_answer": "java.sql"
+  },
+  {
+    "question": "Which interface represents a database connection?",
+    "answers": ["Driver", "Connection", "Statement", "ResultSet"],
+    "correct_answer": "Connection"
+  },
+  {
+    "question": "Which interface executes SQL queries?",
+    "answers": ["Driver", "Connection", "Statement", "ResultSet"],
+    "correct_answer": "Statement"
+  },
+  {
+    "question": "Which object stores query results in JDBC?",
+    "answers": ["Connection", "Statement", "Query", "ResultSet"],
+    "correct_answer": "ResultSet"
+  },
+  {
+    "question": "Which Java version introduced Lambda Expressions?",
+    "answers": ["Java 6", "Java 7", "Java 8", "Java 11"],
+    "correct_answer": "Java 8"
+  },
+  {
+    "question": "What symbol is used in Lambda Expressions?",
+    "answers": ["=>", "->", "::", "==>"],
+    "correct_answer": "->"
+  },
+  {
+    "question": "Which API is used for functional-style data processing?",
+    "answers": ["Collections API", "Streams API", "JDBC API", "Reflection API"],
+    "correct_answer": "Streams API"
+  },
+  {
+    "question": "Which method is used to filter elements in a Stream?",
+    "answers": ["map()", "sort()", "filter()", "collect()"],
+    "correct_answer": "filter()"
+  },
+  {
+    "question": "Which method collects Stream results into a collection?",
+    "answers": ["map()", "collect()", "reduce()", "forEach()"],
+    "correct_answer": "collect()"
+  },
+  {
+    "question": "Which keyword is used to inherit an interface?",
+    "answers": ["extends", "implements", "inherits", "super"],
+    "correct_answer": "extends"
+  },
+  {
+    "question": "Can an interface extend multiple interfaces?",
+    "answers": ["Yes", "No", "Only two", "Only one"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "Which method is called before an object is garbage collected?",
+    "answers": ["dispose()", "finalize()", "destroy()", "delete()"],
+    "correct_answer": "finalize()"
+  },
+  {
+    "question": "What is garbage collection in Java?",
+    "answers": ["Memory allocation", "Memory deallocation of unused objects", "Compilation", "Thread execution"],
+    "correct_answer": "Memory deallocation of unused objects"
+  },
+  {
+    "question": "Which operator is used for logical AND?",
+    "answers": ["&", "&&", "|", "||"],
+    "correct_answer": "&&"
+  },
+  {
+    "question": "Which operator is used for logical OR?",
+    "answers": ["&&", "&", "||", "|"],
+    "correct_answer": "||"
+  },
+  {
+    "question": "What is the default value of a boolean variable?",
+    "answers": ["true", "false", "null", "0"],
+    "correct_answer": "false"
+  },
+  {
+    "question": "Which data type stores a single character?",
+    "answers": ["String", "char", "Character", "text"],
+    "correct_answer": "char"
+  },
+  {
+    "question": "Which class is used for mathematical operations?",
+    "answers": ["Number", "Math", "Arithmetic", "Calc"],
+    "correct_answer": "Math"
+  },
+  {
+    "question": "Which method returns the absolute value of a number?",
+    "answers": ["abs()", "absolute()", "mod()", "value()"],
+    "correct_answer": "abs()"
+  },
+  {
+    "question": "Which method generates a random number?",
+    "answers": ["Math.random()", "random()", "generate()", "rand()"],
+    "correct_answer": "Math.random()"
+  },
+  {
+    "question": "Which loop is best when iterations are known?",
+    "answers": ["while", "do-while", "for", "foreach"],
+    "correct_answer": "for"
+  },
+  {
+    "question": "Which statement skips the current loop iteration?",
+    "answers": ["break", "skip", "continue", "next"],
+    "correct_answer": "continue"
+  },
+  {
+    "question": "Which statement exits a method immediately?",
+    "answers": ["break", "continue", "exit", "return"],
+    "correct_answer": "return"
+  },
+  {
+    "question": "What is the parent class of all exceptions?",
+    "answers": ["Throwable", "Exception", "Error", "Object"],
+    "correct_answer": "Throwable"
+  },
+  {
+    "question": "Which exception is checked at compile time?",
+    "answers": ["ArithmeticException", "NullPointerException", "IOException", "ArrayIndexOutOfBoundsException"],
+    "correct_answer": "IOException"
+  },
+  {
+    "question": "Which exception occurs when accessing a null reference?",
+    "answers": ["IOException", "NullPointerException", "ArithmeticException", "RuntimeException"],
+    "correct_answer": "NullPointerException"
+  },
+  {
+    "question": "Which exception is unchecked?",
+    "answers": ["IOException", "SQLException", "NullPointerException", "FileNotFoundException"],
+    "correct_answer": "NullPointerException"
+  },
+  {
+    "question": "What does API stand for?",
+    "answers": ["Application Programming Interface", "Advanced Program Interface", "Application Process Integration", "Applied Programming Instance"],
+    "correct_answer": "Application Programming Interface"
+  },
+  {
+    "question": "Which package contains networking classes?",
+    "answers": ["java.io", "java.net", "java.sql", "java.util"],
+    "correct_answer": "java.net"
+  },
+  {
+    "question": "Which class represents an IP address?",
+    "answers": ["IPAddress", "InetAddress", "NetworkAddress", "Address"],
+    "correct_answer": "InetAddress"
+  },
+  {
+    "question": "Which protocol is commonly used for web communication?",
+    "answers": ["FTP", "SMTP", "HTTP", "TCP"],
+    "correct_answer": "HTTP"
+  },
+  {
+    "question": "Which keyword is used for dynamic method dispatch?",
+    "answers": ["extends", "override", "super", "runtime polymorphism"],
+    "correct_answer": "runtime polymorphism"
+  },
+  {
+    "question": "Which access modifier restricts access to the same class only?",
+    "answers": ["public", "protected", "default", "private"],
+    "correct_answer": "private"
+  },
+  {
+    "question": "Which access modifier allows package-level access?",
+    "answers": ["public", "private", "default", "protected"],
+    "correct_answer": "default"
+  },
+  {
+    "question": "What is constructor overloading?",
+    "answers": ["Multiple constructors with different parameters", "Overriding constructors", "Calling constructor twice", "Constructor inheritance"],
+    "correct_answer": "Multiple constructors with different parameters"
+  },
+  {
+    "question": "Can constructors be inherited?",
+    "answers": ["Yes", "No", "Sometimes", "Only protected"],
+    "correct_answer": "No"
+  },
+  {
+    "question": "Which keyword calls another constructor in the same class?",
+    "answers": ["super", "base", "this", "parent"],
+    "correct_answer": "this"
+  },
+  {
+    "question": "Which keyword calls a parent constructor?",
+    "answers": ["parent", "base", "super", "extends"],
+    "correct_answer": "super"
+  },
+  {
+    "question": "What is a package in Java?",
+    "answers": ["A method", "A group of related classes", "A variable", "An object"],
+    "correct_answer": "A group of related classes"
+  },
+  {
+    "question": "Which class is used to format dates in older Java versions?",
+    "answers": ["DateFormatter", "SimpleDateFormat", "DateFormatUtil", "Formatter"],
+    "correct_answer": "SimpleDateFormat"
+  },
+  {
+    "question": "Which class represents date and time in Java 8?",
+    "answers": ["Date", "Calendar", "LocalDateTime", "Timestamp"],
+    "correct_answer": "LocalDateTime"
+  },
+  {
+    "question": "Which Java 8 interface contains a single abstract method?",
+    "answers": ["Marker Interface", "Functional Interface", "Serializable", "Runnable"],
+    "correct_answer": "Functional Interface"
+  },
+  {
+    "question": "Which annotation identifies a Functional Interface?",
+    "answers": ["@Interface", "@FunctionalInterface", "@Lambda", "@Function"],
+    "correct_answer": "@FunctionalInterface"
+  },
+  {
+    "question": "Which Stream operation transforms elements?",
+    "answers": ["filter()", "map()", "collect()", "findFirst()"],
+    "correct_answer": "map()"
+  },
+  {
+    "question": "Which Stream operation performs aggregation?",
+    "answers": ["map()", "filter()", "reduce()", "peek()"],
+    "correct_answer": "reduce()"
+  },
+  {
+    "question": "Which method iterates through all stream elements?",
+    "answers": ["forEach()", "iterate()", "loop()", "visit()"],
+    "correct_answer": "forEach()"
+  },
+  {
+    "question": "Which collection class implements a doubly linked list?",
+    "answers": ["ArrayList", "Vector", "LinkedList", "Stack"],
+    "correct_answer": "LinkedList"
+  },
+  {
+    "question": "Which method checks if a collection is empty?",
+    "answers": ["size()", "contains()", "isEmpty()", "checkEmpty()"],
+    "correct_answer": "isEmpty()"
+  },
+  {
+    "question": "Which method returns the number of elements in a collection?",
+    "answers": ["count()", "length()", "size()", "capacity()"],
+    "correct_answer": "size()"
+  }
+]
